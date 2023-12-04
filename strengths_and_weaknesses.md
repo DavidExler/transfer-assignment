@@ -4,3 +4,4 @@
 
 # Weaknesses
 - commited changes can not be undone without complicated preocedure.
+- binary files can cause struggles.
