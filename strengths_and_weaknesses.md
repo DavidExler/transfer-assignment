@@ -3,3 +3,4 @@
 - enables easy collaboration with multiple collaborators.
 
 # Weaknesses
+- commited changes can not be undone without complicated preocedure.
